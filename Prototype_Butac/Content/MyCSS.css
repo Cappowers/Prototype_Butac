@@ -1,0 +1,77 @@
+﻿body {
+   
+}
+
+.titletext {
+    font-family: 'Playfair Display', serif;
+    text-align:center;
+}
+
+.subhead {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align:center;
+    color: dimgrey;
+    font-size: 150%;
+}
+
+.headspace {
+    padding:3em;
+}
+
+.text {
+    padding: 1em;
+    font-size: 150%;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.wording {
+    font-size: 150%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+
+.outline1 {
+    border-style: solid;
+    border-color: darkolivegreen;
+    border-width: medium;
+    width: 40%;
+    padding: 1em;
+    font-size: 150%;
+    display: inline-block;
+    margin-top: 4em;
+    padding-bottom: 7em;
+    
+}
+
+.FirstCart {
+    min-height: 8rem;
+    min-width: 100%;
+    margin-bottom: 2rem;
+}
+
+.MyVideo {
+    width: 35em;
+    height: 19.7em;
+}
+
+.rightalignlabel {
+    text-align:right;
+}
+
+@media screen and (max-width:768px) {
+    .rightalignlabel {
+        text-align:left;
+    }
+}
+
+
+.logo {
+    width: 13em;
+    height: 9em;
+}
+
+.logo2 {
+    width: 14em;
+    height: 9em;
+}
+
